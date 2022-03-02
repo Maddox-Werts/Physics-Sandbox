@@ -5,13 +5,12 @@ It was Extreamly helpful using OpenGL to create 2d and 3d graphics.
 
 # Downloading the source
 
-## If you're **NOT** on a mac...
+### If you're **NOT** on a mac...
 * Download Any IDE
 * Copy the main.cpp from the repo
 * Compile using any prefered librarries
-*
 
-## If you're using a mac
+### If you're using a mac
 * Clone the repo: 
 - *git clone https://github.com/Maddox-Werts/Physics-Sandbox.git*
 * Open the ***.xcodeproj*** file.
